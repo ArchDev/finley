@@ -1,0 +1,10 @@
+{
+  "name": "finley-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "fabulous-framework": {
+    "sdk": "1.0.0",
+    "ndk": "12"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "finley",
+  "version": "1.0.1",
+  "main": "cli.js",
+  "license": "MIT",
+  "scripts": {},
+  "bin": {
+    "finley": "./cli.js"
+  },
+  "dependencies": {
+    "fs-extra": "^8.1.0"
+  }
+}
